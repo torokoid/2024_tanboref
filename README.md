@@ -93,6 +93,10 @@ body::before {
 <a href="https://torokoid.github.io/2024May_tanboref/20240504_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_tanboref/20240504_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024May_tanboref/20240504_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_tanboref/20240504_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024May_tanboref/20240504_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_tanboref/20240504_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">5月18日に見えた夕暮れ時の田んぼレフは逸品でした。<br>あまりに綺麗だったので圧縮なしの原画で挙げます。<br>バックは夕焼けに浮かぶ日光男体山。</span></h3>	
+<a href="https://torokoid.github.io/2024May_tanboref/20240518_017.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_tanboref/20240518_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024May_tanboref/20240518_018.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_tanboref/20240518_018.JPG" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br><br><br><br>
 	
